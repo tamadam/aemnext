@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin/franklin.delivery/tamadam/aemnext/main"
+    url: "https://author-p12074-e30717.adobeaemcloud.com/bin/franklin.delivery/tamadam/aemnext/main"
     type: "markup"
     suffix: ".html"
